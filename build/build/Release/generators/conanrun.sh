@@ -1,1 +1,0 @@
-. "/home/builder/superqr_demo/build/build/Release/generators/conanrunenv-release-x86_64.sh"
