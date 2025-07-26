@@ -1,0 +1,7 @@
+/home/builder/superqr_demo/build/app/CMakeFiles/demo.dir
+/home/builder/superqr_demo/build/app/CMakeFiles/edit_cache.dir
+/home/builder/superqr_demo/build/app/CMakeFiles/rebuild_cache.dir
+/home/builder/superqr_demo/build/app/CMakeFiles/list_install_components.dir
+/home/builder/superqr_demo/build/app/CMakeFiles/install.dir
+/home/builder/superqr_demo/build/app/CMakeFiles/install/local.dir
+/home/builder/superqr_demo/build/app/CMakeFiles/install/strip.dir
