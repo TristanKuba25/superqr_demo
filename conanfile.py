@@ -19,7 +19,7 @@ class SuperQRDemo(ConanFile):
     generators = ("CMakeDeps", "CMakeToolchain")
 
     default_options = {
-        "*:shared": True,
+        "*:shared": False,
         # OpenCV : désactive VA‑API, GTK… si inutile, -> build plus rapide
         "opencv/*:with_vaapi": False,
         "opencv/*:with_gstreamer": False,
